@@ -1,0 +1,353 @@
+Origin,Origin_Airport,Total_Flights,Valid_Flights,Delayed_Flights,Delay_Rate,Avg_Arrival_Delay,Avg_Delay_Minutes
+CKB,,205,199,102,51.26,68.42,137.03
+VRB,,42,41,21,51.22,48.32,97.95
+HGR,,316,308,147,47.73,45.12,99.81
+USA,,710,703,312,44.38,41.77,102.64
+DHN,Dothan Regional Airport,52,52,23,44.23,96.85,234.04
+HTS,,540,531,231,43.5,35.13,90.61
+TOL,Toledo Express Airport,396,393,155,39.44,27.24,84.54
+ASE,Aspen-Pitkin County Airport,7685,7207,2419,33.56,26.12,102.99
+SUX,Sioux Gateway Airport,729,711,230,32.35,28.33,101.55
+SCK,,564,555,172,30.99,31.94,119.81
+BRW,Wiley Post-Will Rogers Memorial Airport,360,345,106,30.72,13.3,57.58
+COD,Yellowstone Regional Airport,930,897,272,30.32,19.91,95.77
+EGE,Eagle County Regional Airport,3868,3805,1152,30.28,17.26,82.96
+SFB,,10495,10420,3144,30.17,17.86,76.82
+STC,St. Cloud Regional Airport,176,176,53,30.11,17.01,70.51
+LCK,,1170,1159,349,30.11,22.64,97.59
+IAG,Niagara Falls International Airport,474,466,140,30.04,14.08,79.19
+RST,Rochester International Airport,1053,1026,307,29.92,20.59,87.58
+SWF,Stewart International Airport,611,600,179,29.83,16.08,86.07
+ROA,Roanoke Regional Airport (Woodrum Field),1772,1716,510,29.72,25.83,113.12
+BLV,,1360,1348,400,29.67,16.86,89.56
+BET,Bethel Airport,723,699,207,29.61,10.88,48.67
+TVC,Cherry Capital Airport,5196,5069,1475,29.1,20.54,90.63
+MGM,Montgomery Regional Airport,2113,2018,584,28.94,27.32,119.01
+ALO,Waterloo Regional Airport,390,380,109,28.68,15.42,75.76
+DIK,Dickinson Theodore Roosevelt Regional Airport,689,673,191,28.38,16.49,88.92
+DFW,Dallas/Fort Worth International Airport,315854,306185,85445,27.91,14.94,74.67
+CMX,Houghton County Memorial Airport,795,757,211,27.87,25.53,121.46
+ACK,Nantucket Memorial Airport,1582,1506,419,27.82,15.89,83.29
+HYA,Barnstable Municipal Airport,380,364,101,27.75,25.92,122.3
+DEC,,627,609,167,27.42,20.78,103.59
+PBG,Plattsburgh International Airport,537,526,144,27.38,17.26,105.15
+DVL,Devils Lake Regional Airport,652,636,174,27.36,18.35,106.09
+LAR,Laramie Regional Airport,627,603,164,27.2,22.42,111.87
+MCW,,627,595,161,27.06,17.76,98.93
+JLN,Joplin Regional Airport,726,699,189,27.04,29.8,137.51
+MVY,Martha's Vineyard Airport,1070,1023,276,26.98,16.53,87.62
+RFD,,935,932,251,26.93,19.27,97.53
+CHO,Charlottesville-Albemarle Airport,1502,1442,387,26.84,20.56,103.38
+DCA,Ronald Reagan Washington National Airport,142506,136684,36110,26.42,13.33,79.44
+FWA,Fort Wayne International Airport,6614,6468,1697,26.24,16.82,93.53
+BFF,,626,610,160,26.23,26.53,122.99
+HDN,Yampa Valley Airport (Yampa Valley Regional),2313,2269,595,26.22,12.87,93.28
+GTR,Golden Triangle Regional Airport,243,238,62,26.05,20.14,109.74
+BGR,Bangor International Airport,3656,3515,907,25.8,16.68,97.34
+LGA,LaGuardia Airport (Marine Air Terminal),135725,131177,33833,25.79,11.77,80.02
+ORD,Chicago O'Hare International Airport,327028,320418,82545,25.76,12.84,77.68
+PHL,Philadelphia International Airport,97519,95211,24473,25.7,13.0,81.96
+PIA,General Wayne A. Downing Peoria International Airport,5435,5301,1362,25.69,17.4,99.85
+BTV,Burlington International Airport,6551,6319,1623,25.68,19.21,106.35
+LAW,Lawton-Fort Sill Regional Airport,1088,1030,263,25.53,18.34,105.16
+FNT,Bishop International Airport,3315,3264,831,25.46,15.0,95.27
+CRW,Yeager Airport,2902,2806,713,25.41,17.43,103.66
+JAC,Jackson Hole Airport,6386,6237,1582,25.36,17.08,102.6
+MIA,Miami International Airport,111907,110113,27925,25.36,11.83,75.22
+COU,Columbia Regional Airport,2489,2390,606,25.36,14.22,83.89
+FSD,Sioux Falls Regional Airport,7398,7258,1829,25.2,14.31,89.51
+SGF,Springfield-Branson National Airport,9247,9066,2279,25.14,16.17,89.37
+SBN,South Bend International Airport (South Bend Regional),7848,7676,1924,25.07,16.7,99.54
+ORH,Worcester Regional Airport,962,934,234,25.05,13.43,99.96
+GUC,Gunnison-Crested Butte Regional Airport,1138,1126,282,25.04,18.27,107.44
+DEN,Denver International Airport,317686,314281,78259,24.9,11.15,68.7
+CPR,Natrona County International Airport,2398,2366,589,24.89,12.9,87.65
+SCE,University Park Airport,471,458,114,24.89,14.19,100.24
+LBL,,627,611,152,24.88,24.23,115.57
+EWR,Newark Liberty International Airport,120286,116940,28751,24.59,10.53,81.91
+CHA,Chattanooga Metropolitan Airport (Lovell Field),5140,4994,1226,24.55,15.54,98.03
+PBI,Palm Beach International Airport,30785,30181,7385,24.47,13.39,86.48
+LCH,Lake Charles Regional Airport,1186,1129,276,24.45,21.53,113.49
+TRI,Tri-Cities Regional Airport,1318,1299,317,24.4,13.3,95.74
+LNK,Lincoln Airport (Lincoln Municipal),2865,2804,683,24.36,14.87,96.91
+CAK,Akron-Canton Regional Airport,4229,4152,1011,24.35,16.72,108.49
+PIE,,9415,9339,2261,24.21,9.75,71.39
+JFK,John F. Kennedy International Airport (New York International Airport),104760,102370,24772,24.2,8.19,76.05
+JST,,727,703,170,24.18,32.14,174.48
+TYR,Tyler Pounds Regional Airport,1089,1044,251,24.04,10.82,75.16
+CLT,Charlotte Douglas International Airport,195425,191629,45970,23.99,10.22,70.51
+MCO,Orlando International Airport,160048,157950,37701,23.87,10.92,76.17
+STS,,4668,4569,1087,23.79,12.21,70.43
+XWA,,2376,2330,553,23.73,15.63,103.95
+LFT,Lafayette Regional Airport,2674,2575,609,23.65,15.99,97.09
+HSV,Huntsville International Airport,8550,8278,1954,23.6,13.86,93.06
+BOS,Gen. Edward Lawrence Logan International Airport,142859,140092,32964,23.53,7.99,74.0
+AEX,Alexandria International Airport,1106,1054,248,23.53,13.53,84.93
+RAP,Rapid City Regional Airport,5250,5140,1209,23.52,10.99,83.14
+AVL,Asheville Regional Airport,10243,10038,2360,23.51,11.52,83.69
+SYR,Syracuse Hancock International Airport,10393,10130,2379,23.48,11.27,83.42
+TYS,McGhee Tyson Airport,13267,12954,3039,23.46,14.16,96.62
+CWA,Central Wisconsin Airport,749,731,171,23.39,12.42,79.09
+FLL,Fort Lauderdale-Hollywood International Airport,87585,86218,20108,23.32,9.88,75.99
+DDC,,627,610,142,23.28,26.93,153.15
+MTJ,Montrose Regional Airport,2419,2391,556,23.25,15.52,104.46
+ATL,Hartsfield-Jackson Atlanta International Airport,314433,309064,71782,23.23,10.66,69.74
+EVV,Evansville Regional Airport,1934,1874,435,23.21,11.11,89.95
+ISP,Long Island MacArthur Airport,5283,5207,1207,23.18,10.63,80.24
+EYW,Key West International Airport,7760,7587,1757,23.16,12.81,85.75
+LBF,,626,609,141,23.15,14.97,99.12
+DAL,Dallas Love Field,71366,70145,16225,23.13,8.67,60.61
+SLN,,969,946,218,23.04,19.03,114.39
+MBS,MBS International Airport,2305,2264,521,23.01,16.97,111.05
+SAF,Santa Fe Municipal Airport,3681,3609,830,23.0,9.65,79.63
+MLI,Quad City International Airport,4204,4097,940,22.94,11.66,89.35
+PRC,,794,785,179,22.8,23.55,137.09
+LAN,Capital Region International Airport ( Lansing Capital City),1965,1912,434,22.7,12.2,97.41
+SHV,Shreveport Regional Airport,5952,5797,1306,22.53,14.86,96.4
+SPI,Abraham Lincoln Capital Airport,626,609,137,22.5,11.44,91.48
+SMX,Santa Maria Public Airport (Capt G. Allan Hancock Field),258,254,57,22.44,15.31,115.05
+HPN,Westchester County Airport,10794,10451,2343,22.42,9.88,90.03
+ROC,Greater Rochester International Airport,10084,9869,2209,22.38,10.73,81.25
+SHR,,735,716,160,22.35,18.35,116.37
+LIT,Bill and Hillary Clinton National Airport (Adams Field),12782,12498,2776,22.21,10.84,81.76
+IAH,George Bush Intercontinental Airport,117259,115404,25626,22.21,10.1,80.61
+STX,Henry E. Rohlsen Airport,1374,1360,301,22.13,9.17,88.52
+CID,The Eastern Iowa Airport,8066,7881,1744,22.13,12.58,95.39
+ATW,Appleton International Airport,7399,7296,1613,22.11,10.27,88.96
+AGS,Augusta Regional Airport (Bush Field),2298,2230,492,22.06,10.09,90.17
+BWI,Baltimore-Washington International Airport,96100,94610,20774,21.96,8.1,68.29
+CIU,Chippewa County International Airport,864,849,186,21.91,10.94,96.5
+DRO,Durango-La Plata County Airport,4220,4136,904,21.86,10.86,94.64
+GCC,Gillette-Campbell County Airport,730,714,156,21.85,21.5,145.9
+LEX,Blue Grass Airport,9373,9160,2000,21.83,8.43,84.03
+FAR,Hector International Airport,6995,6912,1509,21.83,9.99,88.29
+BIS,Bismarck Municipal Airport,4270,4210,919,21.83,10.61,97.2
+ACV,Arcata Airport,1985,1957,427,21.82,14.73,103.94
+GRR,Gerald R. Ford International Airport,18592,18287,3988,21.81,8.69,81.35
+RIC,Richmond International Airport,17877,17460,3806,21.8,8.85,79.58
+PSM,,506,506,110,21.74,6.39,82.06
+BNA,Nashville International Airport,105241,103635,22528,21.74,8.1,69.83
+MGW,,727,695,151,21.73,32.91,206.58
+TPA,Tampa International Airport,79433,78251,16981,21.7,9.21,76.87
+COS,City of Colorado Springs Municipal Airport,13360,13137,2850,21.69,9.9,82.2
+ICT,Wichita Dwight D. Eisenhower National Airport (Wichita Mid-Continent Airport),11164,10856,2353,21.67,12.53,93.3
+OTH,Southwest Oregon Regional Airport (North Bend Municipal),473,466,101,21.67,15.77,100.7
+AUS,Austin-Bergstrom International Airport,86731,85706,18529,21.62,9.25,74.27
+ALB,Albany International Airport,12595,12318,2659,21.59,10.25,88.77
+MDW,Chicago Midway International Airport,74017,73026,15698,21.5,6.4,59.46
+XNA,Northwest Arkansas Regional Airport,12780,12504,2678,21.42,11.1,88.89
+SEA,Seattle-Tacoma International Airport,164835,162971,34798,21.35,4.76,55.21
+MQT,Sawyer International Airport,1353,1312,280,21.34,12.65,99.44
+CYS,,736,727,155,21.32,18.46,110.81
+DAY,James M. Cox Dayton International Airport,7928,7725,1647,21.32,10.16,100.89
+CVG,Cincinnati/Northern Kentucky International Airport,33489,32844,6998,21.31,9.42,81.21
+ACT,Waco Regional Airport,1090,1039,221,21.27,13.01,97.72
+BZN,Bozeman Yellowstone International Airport (Gallatin Field Airport),11051,10925,2323,21.26,9.52,86.91
+GRB,Green Bay-Austin Straubel International Airport,4294,4207,894,21.25,10.32,86.83
+PLN,Pellston Regional Airport of Emmet County,925,885,188,21.24,9.4,102.34
+IMT,Ford Airport,727,712,151,21.21,15.05,130.0
+DTW,Detroit Metropolitan Airport,122533,120881,25591,21.17,8.21,75.79
+HOB,Lea County Regional Airport,730,714,151,21.15,26.23,160.53
+GCK,Garden City Regional Airport,729,705,149,21.13,10.83,85.86
+SAN,San Diego International Airport (Lindbergh Field),96925,95509,20176,21.12,6.17,64.46
+ERI,Erie International Airport,39,38,8,21.05,2.21,78.88
+ROW,Roswell International Air Center,948,912,192,21.05,16.09,119.1
+TTN,Trenton Mercer Airport,1091,1060,223,21.04,6.32,88.24
+MYR,Myrtle Beach International Airport,14532,14177,2980,21.02,9.55,91.4
+SPS,Wichita Falls Municipal Airport/Sheppard AFB,729,700,147,21.0,16.46,128.27
+ORF,Norfolk International Airport,19872,19383,4070,21.0,9.23,83.63
+MOB,Mobile Regional Airport,1711,1634,343,20.99,11.58,92.55
+VCT,,596,573,120,20.94,23.02,161.26
+SBP,San Luis Obispo County Regional Airport (McChesney Field),5397,5312,1111,20.91,11.66,90.74
+BUF,Buffalo Niagara International Airport,20657,20182,4221,20.91,9.12,80.98
+PVD,Theodore Francis Green State Airport,15528,15192,3175,20.9,8.47,78.01
+MDT,Harrisburg International Airport,5069,4994,1042,20.87,9.28,93.64
+MHT,Manchester-Boston Regional Airport,5979,5805,1206,20.78,9.56,82.63
+MSY,Louis Armstrong New Orleans International Airport,51121,50063,10398,20.77,8.91,78.19
+BDL,Bradley International Airport,23108,22663,4700,20.74,7.5,78.66
+SJT,San Angelo Regional Airport (Mathis Field),1089,1037,215,20.73,13.59,99.62
+PWM,Portland International Jetport,10750,10468,2165,20.68,10.01,87.19
+CMI,University of Illinois - Willard Airport,1654,1608,332,20.65,9.46,94.06
+BTR,Baton Rouge Metropolitan Airport,4535,4386,904,20.61,13.12,102.47
+MLU,Monroe Regional Airport,1087,1050,216,20.57,17.68,111.44
+GRI,Central Nebraska Regional Airport,989,963,198,20.56,10.59,96.66
+IAD,Washington Dulles International Airport,57546,56790,11648,20.51,7.7,77.92
+STL,St. Louis International Airport at Lambert Field,64202,63152,12932,20.48,7.31,71.01
+EAU,Chippewa Valley Regional Airport,627,608,124,20.39,17.38,134.49
+SJU,Luis Muñoz Marín International Airport,35706,35232,7172,20.36,7.03,79.78
+CHS,Charleston International Airport/Charleston AFB,24634,24020,4888,20.35,9.19,85.85
+SAV,Savannah/Hilton Head International Airport,19299,18830,3829,20.33,10.25,91.05
+EWN,Coastal Carolina Regional Airport (Craven County Regional),294,291,59,20.27,10.83,98.19
+RDU,Raleigh-Durham International Airport,55383,54330,11014,20.27,8.25,81.97
+RSW,Southwest Florida International Airport,35222,34660,7022,20.26,8.42,84.08
+MOT,Minot International Airport,2841,2792,565,20.24,8.51,95.15
+CAE,Columbia Metropolitan Airport,5520,5326,1077,20.22,8.08,90.53
+HOU,William P. Hobby Airport,55255,54501,11005,20.19,6.1,58.34
+MCI,Kansas City International Airport,48228,47324,9545,20.17,8.42,75.11
+DLH,Duluth International Airport,2212,2172,438,20.17,11.6,102.48
+MKE,General Mitchell International Airport,27669,27152,5474,20.16,7.87,83.28
+CLL,Easterwood Airport,1221,1177,237,20.14,12.36,98.58
+MEI,Meridian Regional Airport,627,617,124,20.1,13.2,115.98
+GRK,Killeen-Fort Hood Regional Airport,1811,1742,350,20.09,6.94,66.61
+MSN,Dane County Regional Airport,12771,12505,2511,20.08,8.85,92.93
+LAS,McCarran International Airport,183803,181901,36504,20.07,4.75,63.52
+FOD,,627,602,120,19.93,10.72,109.77
+LAF,,236,231,46,19.91,22.26,148.2
+CMH,Port Columbus International Airport,44403,43630,8687,19.91,6.79,74.24
+OKC,Will Rogers World Airport,24190,23774,4722,19.86,8.58,79.19
+MSO,Missoula International Airport,4490,4432,880,19.86,9.51,86.01
+CLE,Cleveland Hopkins International Airport,39967,39139,7744,19.79,6.72,80.46
+JAX,Jacksonville International Airport,28322,27761,5477,19.73,9.18,87.36
+FLG,Flagstaff Pulliam Airport,1729,1696,334,19.69,13.36,112.21
+IDA,Idaho Falls Regional Airport,4419,4354,857,19.68,10.27,100.08
+LBE,Arnold Palmer Regional Airport,492,483,95,19.67,3.13,80.53
+MFE,McAllen-Miller International Airport (McAllen Miller International),4864,4759,936,19.67,12.06,106.57
+MSP,Minneapolis-Saint Paul International Airport,112931,111700,21969,19.67,5.74,72.49
+GJT,Grand Junction Regional Airport (Walker Field),4699,4626,909,19.65,7.73,85.85
+RDD,Redding Municipal Airport,1698,1674,328,19.59,12.53,103.33
+JMS,Jamestown Regional Airport,652,638,125,19.59,6.22,84.7
+SWO,,729,700,137,19.57,11.49,110.93
+BPT,Jack Brooks Regional Airport (Southeast Texas Regional),727,695,136,19.57,15.26,128.16
+BRO,Brownsville/South Padre Island International Airport,1567,1509,295,19.55,9.42,90.4
+MEM,Memphis International Airport,24002,23539,4601,19.55,7.49,82.23
+DSM,Des Moines International Airport,14773,14405,2812,19.52,8.96,92.78
+ELM,Elmira/Corning Regional Airport,1250,1240,242,19.52,6.29,78.73
+GGG,East Texas Regional Airport,727,702,137,19.52,19.58,135.29
+ILM,Wilmington International Airport,7416,7177,1398,19.48,7.52,88.74
+DLG,Dillingham Airport,114,113,22,19.47,-1.23,36.86
+PGD,,7712,7663,1490,19.44,4.96,71.13
+MHK,Manhattan Regional Airport,1563,1503,292,19.43,11.45,105.1
+HYS,Hays Regional Airport,627,608,118,19.41,10.33,104.34
+LRD,Laredo International Airport,1776,1703,329,19.32,10.4,89.55
+OME,Nome Airport,358,348,67,19.25,1.13,48.81
+AVP,Wilkes-Barre/Scranton International Airport,1534,1492,287,19.24,5.95,96.75
+SRQ,Sarasota-Bradenton International Airport,17228,16985,3255,19.16,8.01,88.62
+ECP,Northwest Florida Beaches International Airport,9043,8866,1699,19.16,7.73,83.88
+AZO,Kalamazoo/Battle Creek International Airport,1602,1561,299,19.15,8.43,100.08
+SFO,San Francisco International Airport,144495,142973,27323,19.11,4.88,68.12
+AMA,Rick Husband Amarillo International Airport,5227,5107,971,19.01,8.38,87.85
+IND,Indianapolis International Airport,47346,46473,8819,18.98,6.25,76.46
+PHX,Phoenix Sky Harbor International Airport,196756,194840,36860,18.92,5.26,64.23
+TUL,Tulsa International Airport,18410,18037,3403,18.87,7.63,83.99
+RKS,Rock Springs-Sweetwater County Airport,729,721,136,18.86,20.65,163.09
+PNS,Pensacola International Airport (Pensacola Gulf Coast Regional Airport),13884,13515,2549,18.86,11.64,105.26
+SDF,Louisville International Airport (Standiford Field),23039,22518,4237,18.82,6.79,85.25
+PIT,Pittsburgh International Airport,43176,42466,7989,18.81,5.22,74.34
+LBB,Lubbock Preston Smith International Airport,6576,6433,1210,18.81,8.24,90.79
+VPS,Destin-Fort Walton Beach Airport/Eglin AFB,10696,10501,1972,18.78,8.07,91.12
+HLN,Helena Regional Airport,1680,1651,308,18.66,8.37,101.9
+SBA,Santa Barbara Municipal Airport (Santa Barbara Airport),8236,8130,1516,18.65,5.65,75.97
+GSP,Greenville-Spartanburg International Airport,14179,13839,2575,18.61,6.82,85.49
+LSE,La Crosse Regional Airport,891,867,161,18.57,3.71,70.02
+PIR,,297,291,54,18.56,10.09,117.57
+BIH,,299,297,55,18.52,4.03,71.71
+BHM,Birmingham-Shuttlesworth International Airport,16858,16480,3046,18.48,7.3,85.22
+JAN,Jackson-Evers International Airport,6118,5953,1098,18.44,7.86,93.38
+GSO,Piedmont Triad International Airport,10368,10085,1847,18.31,6.02,88.99
+TXK,Texarkana Regional Airport (Webb Field),727,700,128,18.29,7.4,78.68
+OMA,Eppley Airfield,24648,24274,4438,18.28,6.06,80.27
+GUF,,327,323,59,18.27,2.11,101.93
+KTN,Ketchikan International Airport,2388,2325,423,18.19,0.59,61.85
+HHH,,2185,2116,383,18.1,6.1,92.17
+FCA,Glacier Park International Airport,4340,4295,777,18.09,8.1,94.11
+PSP,Palm Springs International Airport,14930,14795,2673,18.07,4.73,76.12
+BIL,Billings Logan International Airport,4841,4775,860,18.01,5.82,90.41
+WYS,Westerly State Airport,336,323,58,17.96,9.81,115.14
+PVU,,2978,2938,525,17.87,11.31,109.83
+SNA,John Wayne Airport (Orange County Airport),44997,44395,7921,17.84,5.62,76.18
+BQN,Rafael Hernández Airport,2297,2250,398,17.69,1.82,74.21
+CRP,Corpus Christi International Airport,3945,3855,679,17.61,6.29,78.75
+ABI,Abilene Regional Airport,1761,1718,302,17.58,4.57,69.69
+TLH,Tallahassee International Airport,4516,4400,773,17.57,6.88,86.53
+SIT,Sitka Rocky Gutierrez Airport,1329,1295,226,17.45,0.54,56.85
+BMI,Central Illinois Regional Airport at Bloomington-Normal,1722,1686,294,17.44,4.39,83.23
+RNO,Reno/Tahoe International Airport,20927,20640,3599,17.44,4.34,74.41
+MLB,Melbourne International Airport,2942,2884,502,17.41,6.06,93.29
+PIB,Hattiesburg-Laurel Regional Airport,627,615,107,17.4,8.88,126.96
+FAT,Fresno Yosemite International Airport,13341,13208,2291,17.35,5.94,76.51
+MAF,Midland International Airport,9881,9703,1674,17.25,7.41,89.54
+ATY,,304,303,52,17.16,10.18,139.98
+SAT,San Antonio International Airport,41810,41200,7040,17.09,5.1,77.46
+EAR,,626,616,105,17.05,10.47,132.1
+LAX,Los Angeles International Airport,190472,188578,32028,16.98,2.63,72.29
+ABE,Lehigh Valley International Airport,3037,2981,505,16.94,4.23,93.96
+PDX,Portland International Airport,61159,60559,10225,16.88,3.04,60.32
+GST,Gustavus Airport,86,83,14,16.87,2.02,71.5
+ELP,El Paso International Airport,17011,16770,2818,16.8,4.92,74.1
+FSM,Fort Smith Regional Airport,1169,1119,188,16.8,3.96,67.93
+STT,Cyril E. King Airport,5044,4906,814,16.59,1.49,100.54
+SMF,Sacramento International Airport,57928,57424,9479,16.51,2.73,59.53
+PAE,,1121,1103,182,16.5,2.18,71.14
+HRL,Valley International Airport,4307,4178,688,16.47,4.14,71.42
+HIB,Range Regional Airport (Chisholm-Hibbing Airport),627,620,102,16.45,5.85,117.92
+EUG,Eugene Airport (Mahlon Sweet Field),8279,8200,1349,16.45,5.06,79.96
+RIW,,729,718,118,16.43,15.35,151.75
+BUR,Bob Hope Airport (Hollywood Burbank Airport),30685,30199,4931,16.33,2.07,68.14
+ONT,Ontario International Airport,26162,25866,4212,16.28,3.9,71.48
+OAK,Oakland International Airport,34591,34305,5577,16.26,2.12,54.88
+RDM,Redmond Municipal Airport (Roberts Field),6165,6105,990,16.22,2.96,71.56
+ABQ,Albuquerque International Sunport,25207,24902,4030,16.18,3.5,72.51
+BGM,Greater Binghamton Airport,226,223,36,16.14,4.04,98.33
+ABY,Southwest Georgia Regional Airport,890,871,139,15.96,7.54,134.37
+BRD,Brainerd Lakes Regional Airport,629,623,99,15.89,2.4,107.72
+RHI,Rhinelander-Oneida County Airport,925,902,143,15.85,-3.79,94.67
+GPT,Gulfport-Biloxi International Airport,3361,3243,509,15.7,4.41,94.04
+MRY,Monterey Regional Airport (Monterey Peninsula Airport),4866,4801,748,15.58,6.29,90.38
+ANC,Ted Stevens Anchorage International Airport,18860,18609,2896,15.56,0.73,64.14
+FAY,Fayetteville Regional Airport,354,348,54,15.52,1.0,114.2
+ADQ,Kodiak Airport,864,832,129,15.5,1.4,66.17
+ADK,Adak Airport,105,97,15,15.46,-8.16,50.0
+FAI,Fairbanks International Airport,3759,3726,575,15.43,-0.37,61.87
+BOI,Boise Airport (Boise Air Terminal),23524,23362,3602,15.42,1.54,67.6
+SJC,Norman Y. Mineta San José International Airport,45902,45520,6995,15.37,1.08,58.55
+GEG,Spokane International Airport,18202,18070,2764,15.3,2.0,65.65
+SLC,Salt Lake City International Airport,116298,115369,17623,15.28,1.26,65.84
+AZA,,6521,6488,991,15.27,1.11,64.4
+FMN,,237,236,36,15.25,19.11,139.17
+JNU,Juneau International Airport,4703,4580,697,15.22,-0.73,63.31
+BFL,Meadows Field,3054,3025,458,15.14,4.87,91.73
+OAJ,Albert J. Ellis Airport,351,331,50,15.11,4.94,103.08
+DAB,Daytona Beach International Airport,3054,2990,450,15.05,1.6,93.1
+GFK,Grand Forks International Airport,816,808,121,14.98,-0.73,76.88
+TUS,Tucson International Airport,20152,19923,2962,14.87,3.29,80.97
+YUM,Yuma International Airport,1683,1654,241,14.57,8.81,113.17
+ACY,Atlantic City International Airport,2671,2643,378,14.3,-1.37,82.02
+SUN,Friedman Memorial Airport,2504,2471,344,13.92,4.6,122.38
+GNV,Gainesville Regional Airport,2714,2660,369,13.87,2.74,105.76
+BLI,Bellingham International Airport,2409,2376,326,13.72,0.88,60.45
+MFR,Rogue Valley International Airport,4613,4554,623,13.68,2.4,87.5
+SGU,St. George Regional Airport,4539,4513,617,13.67,0.81,88.14
+ESC,Delta County Airport,628,607,82,13.51,5.36,141.96
+APN,Alpena County Regional Airport,628,602,80,13.29,-0.33,117.41
+LGB,Long Beach Airport (Daugherty Field),16724,16619,2207,13.28,-1.22,57.77
+HNL,Honolulu International Airport,58873,58346,7748,13.28,2.65,57.29
+OGG,Kahului Airport,25505,25245,3322,13.16,1.6,60.14
+WRG,Wrangell Airport,724,700,92,13.14,-3.81,65.96
+PPG,Pago Pago International Airport (Tafuna Airport),150,148,19,12.84,10.83,137.21
+LIH,Lihue Airport,15664,15493,1984,12.81,0.59,52.97
+CDV,Merle K. (Mudhole) Smith Airport,724,706,90,12.75,-3.88,49.38
+BJI,Bemidji Regional Airport,728,723,92,12.72,-3.12,97.0
+BTM,Bert Mooney Airport,708,701,88,12.55,-1.02,113.03
+GTF,Great Falls International Airport,2444,2431,304,12.51,-0.55,84.03
+KOA,Kona International Airport at Keahole,15796,15621,1833,11.73,1.44,68.22
+INL,Falls International Airport,658,650,72,11.08,-3.02,123.51
+PSC,Tri-Cities Airport,6445,6408,709,11.06,-1.55,81.74
+PSG,Petersburg James A. Johnson Airport,724,700,77,11.0,-5.76,67.3
+ABR,Aberdeen Regional Airport,754,748,78,10.43,0.82,169.18
+SCC,Deadhorse Airport (Prudhoe Bay Airport),537,532,55,10.34,-7.22,66.65
+YAK,Yakutat Airport,724,697,72,10.33,-9.11,58.18
+OTZ,Ralph Wien Memorial Airport,363,349,35,10.03,-3.68,69.37
+ITO,Hilo International Airport,6649,6603,647,9.8,0.8,43.23
+PSE,Mercedita Airport,688,680,66,9.71,-7.65,62.91
+CLD,McClellan-Palomar Airport,640,637,56,8.79,-6.4,60.11
+LWS,Lewiston-Nez Perce County Airport,761,757,62,8.19,-2.36,105.89
+AKN,King Salmon Airport,166,165,12,7.27,-11.96,43.42
+CDC,Cedar City Regional Airport,628,625,41,6.56,-9.17,60.46
+GUM,Guam International Airport,732,726,43,5.92,-6.62,69.93
+PIH,Pocatello Regional Airport,551,549,31,5.65,-10.84,65.97
+SPN,,367,366,19,5.19,-5.0,106.58
+PQI,,365,363,18,4.96,-17.79,94.56
+TWF,Magic Valley Regional Airport (Joslin Field),716,715,34,4.76,-6.78,130.09
+EKO,Elko Regional Airport,504,503,17,3.38,-13.98,149.29
+ITH,Ithaca Tompkins Regional Airport,4,4,0,0.0,-13.5,
+PHF,Newport News/Williamsburg International Airport,3,3,0,0.0,-11.0,

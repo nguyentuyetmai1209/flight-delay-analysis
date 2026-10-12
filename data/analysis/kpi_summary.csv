@@ -1,0 +1,11 @@
+Metric,Value
+Total Flights,7001619.0
+Valid Flights,6879484.0
+Delayed Flights,1487713.0
+Delay Rate (%),21.63
+Average Arrival Delay,8.5
+Average Delay Minutes,74.77
+Cancelled Flights,102876.0
+Cancel Rate (%),1.47
+Diverted Flights,19258.0
+Diverted Rate (%),0.28

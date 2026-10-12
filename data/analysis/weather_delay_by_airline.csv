@@ -1,0 +1,15 @@
+Reporting_Airline,Airline_Name,Total_Flights,Weather_Affected_Flights,Weather_Delay_Minutes,Weather_Affected_Rate,Avg_Weather_Delay
+OO,Skywest Airlines Inc.,839821,20988,2038650.0,2.5,97.13
+AA,American Airlines Inc.,973653,19608,1211424.0,2.01,61.78
+DL,Delta Air Lines Inc.,1026332,10152,741254.0,0.99,73.02
+UA,United Air Lines Inc.,795271,8526,632202.0,1.07,74.15
+WN,Southwest Airlines Co.,1391885,8720,495601.0,0.63,56.83
+MQ,American Eagle Airlines Inc.,299322,9519,459193.0,3.18,48.24
+OH,,248735,6111,441148.0,2.46,72.19
+G4,,130899,4039,324920.0,3.09,80.45
+YX,,346036,4104,296125.0,1.19,72.16
+F9,Frontier Airlines Inc.,198065,2055,133427.0,1.04,64.93
+B6,JetBlue Airways,231413,1765,121217.0,0.76,68.68
+AS,Alaska Airlines Inc.,245588,2128,100207.0,0.87,47.09
+NK,Spirit Air Lines,194515,1688,90125.0,0.87,53.39
+HA,Hawaiian Airlines Inc.,80084,700,23221.0,0.87,33.17
